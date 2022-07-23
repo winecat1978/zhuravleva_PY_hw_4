@@ -47,6 +47,5 @@ def SimpleDivCheck(divids, NUM):
 NUM = GetNumber(1)
 print(NUM)
 divids = DivList(NUM)
-print(divids)
 result = SimpleDivCheck(divids,NUM)
 print(result)
